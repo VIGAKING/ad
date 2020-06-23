@@ -11,7 +11,7 @@ Maintained by <b>eHpo</b>
 
 1. 添加远程配置
 
-   <https://raw.githubusercontent.com/eHpo1/Rules/master/Shadowrocket/Main.conf>
+   <https://github.com/VIGAKING/ad/blob/master/Shadowrocket/Main.conf>
 
 2. 编辑配置 - HTTPS解密 - 打开开关 - 安装证书；然后到系统设置 - 已下载描述文件 - 安装；最后系统设置 - 通用 - 关于本机 - 证书信任设置，信任刚才安装的证书
 
